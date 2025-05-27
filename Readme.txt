@@ -1,0 +1,5 @@
+WIFI烧录工具
+
+参数：bin路径 地址 com口
+
+示例：D:\MG10120000_STM32N6_WIFI_AIC8800_V0.2.1.bin 8000000 COM12
